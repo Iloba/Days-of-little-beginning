@@ -1,0 +1,123 @@
+header{
+	background: #999;
+	font-size: 25px;
+}
+.logo{
+	width: 30%;
+	margin-left: 50%;
+}
+.navbar-nav > li > a {
+  font-size: 20px;
+  font-family: agency fb;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px;
+}
+.navbar-inverse {
+  background-color: #555;
+  color: black;
+  font-size: 30px
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #000;
+  font-size: 16px;
+}
+.text{
+	font-size: 30px;
+	text-shadow: 2px 2px 2px;
+	color: #000;
+	font-weight: Bold;
+	font-style: italic;
+	margin-top: 2%;
+	margin-right: 19%;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #c00;
+  background-color: #fff;
+}
+ .head1{
+ 	font-size: 20px;
+ 	font-style: italic;
+ 	color: #555;
+}
+ .pgh{
+ 	font-size: 16px;
+ 	font-family: calibri;
+ 	color: #657;
+}
+.maq{
+	font-size: 25px;
+	color: navy; 
+}
+.amaq{
+	color: red;
+	font-size: 25px;
+	font-family: calibri;
+	font-style: italic;
+}
+.txt{
+	font-size: 19px;
+}
+.bg{
+	background: url(../img/15.jpg);
+}
+ .ph{
+ 	color: #fff;
+ 	font-family: calibri;
+ 	font-size: 17px;
+}
+.h{
+	color: #fff;
+	font-family: agency fb;
+}
+.profile{
+	color: #000;
+	font-size: 20px;
+}
+.mr{
+	margin-left: 25%;
+	font-size: 26px;
+}
+.dir{
+	font-size: 16px;
+	margin-left: 35%;
+}
+.director{
+	width: 80%;
+}
+footer{
+	background: #999;
+	border-top: 15px solid #555;
+	border-bottom: 15px solid #999;
+}
+ footer h2{
+ 	color: #000;
+ 	font-family: arial narrow;
+ 	font-size: 25px;
+ 	font-style: italic;
+ 	font-weight: bold;
+}
+footer a{
+	color: #000;
+	margin-top: 4%;
+	font-size: 16px;
+	font-family: tahoma;
+}
+ footer p{
+ 	font-size: 13px;
+ 	color: #000;
+ 	font-style: italic;
+}
+.end{
+	background: #555;
+}
+ .endp {
+ 	font-size: 16px;
+ 	font-style: normal;
+ 	font-weight: bold;
+ 	color: #111;
+}
+.powered{
+	color: #999;
+	font-size: 17px;
+}

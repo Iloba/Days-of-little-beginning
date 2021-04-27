@@ -1,0 +1,39 @@
+
+footer {
+	background-color: #444;
+	color: #aaa;
+	border-top: 15px solid #000;
+	border-bottom: 5px solid #f00;	
+}
+ footer a {
+	color: #fff;
+	text-transform: uppercase;
+}
+ footer p{
+	margin: 2% auto;
+}
+body{
+	background-color: silver;
+}
+.img_size{
+	width: 30%;
+	margin:  auto;
+}
+.dont{
+	font-family: elephant;
+	font-size: 40px;
+	color: black;
+	text-shadow: 5px 5px 5px #aaa;
+}
+.fnts{
+   font-size: 20px;
+}
+.font {
+	font-family: lucida handwriting;
+	color: orange;
+	font-weight: bold
+}
+.style{
+	font-size: 19px;
+	font-weight: bold;
+}

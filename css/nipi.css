@@ -1,0 +1,68 @@
+.img{
+	width: 50%;
+	margin-top: 10%;
+	margin-left: 30%;
+}
+.head{
+	color: green;
+	text-shadow: 4px 2px 4px;
+	font-size: 26px;
+	font-family: arial black;
+	margin-left: -8%;
+
+}
+.fed{
+color: red;
+font-size: 19px;
+margin-left: -6%;
+font-weight: bold;
+}
+.navbar-inverse {
+  background-color: green;
+  color: white;
+ }
+.green{
+	color: green;
+}
+.txt{
+	font-size: 19px;
+}
+.news{
+	font-size: 18px;
+	font-weight: bold;
+	color: #930;
+}
+.move{
+	margin-right: 2%;
+}
+.director{
+	width: 75%;
+}
+.mr{
+	margin-left: 17%;
+	font-size: 19px;
+}
+.dir{
+	font-size: 16px;
+	margin-left: 25%;
+}
+.pgh{
+	font-size: 16px;
+}
+footer{
+	background: #222;
+}
+footer h3{
+	color: #fff;
+	font-size: 17px;
+}
+footer a{
+	color: #ddd;
+	font-size: 14px;
+}
+footer p{
+	color:#fff;
+}
+.end{
+	background: #000;
+}

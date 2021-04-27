@@ -1,0 +1,126 @@
+body {
+	background: url(../img/mv.jpg);
+}
+body h3{
+	font-family: agency fb;
+	color: #fff;
+	font-size: 20px;
+	text-shadow: 2px 0px 2px;
+	margin-top: -16%;
+	margin-left: 75%;
+	font-weight: Bold;
+}
+header{
+	background: navy;
+}
+.logo{
+	margin-top: 4%;
+	margin-left: 50%;
+	width: 20%;
+}
+body h2{
+	font-family: agency fb;
+	color: #fff;
+	font-size: 26px;
+	text-shadow: 2px 0px 2px;
+	font-weight: Bold;
+	margin-right:9%;
+}
+.pgh{
+	font-size: 20px;
+	font-family: agency fb;
+	color: #000;
+}
+.h{
+	font-family: agency fb;
+	color: #6cf; 
+}
+
+.f{
+	font-family: agency fb;
+	color: #fff; 
+}
+
+ .navbar-nav > li > a {
+  color: #fff;
+  font-size: 14px;
+  font-family: agency fb;
+  font-weight: bold;
+}
+ .navbar-nav > li > a:hover,
+ .navbar-nav > li > a:focus {
+  color: #000;
+  background-color: #fff;
+}
+.img{
+	width: 80%; 
+}
+.sc{
+	height: 60px;
+	width: 60%;
+	margin-left: 20%;
+
+}
+.bg{
+	background: #00c;
+}
+.hg{
+	background: #fff;
+}
+.p{
+	color: #000;
+	font-size: 20px;
+	font-family: agency fb;
+}
+.size{
+		width: 	80%;
+}
+footer {
+	background: navy;
+	color: #fff;
+	border-top: 15px solid #ccc;
+	border-bottom: 5px solid #ccc;
+}
+footer a{
+	color: #fff;
+	text-transform: uppercase;
+	font-family: calibri light;
+	font-size: 14px; 
+}
+.mv{
+	width: 110%;
+	height: 20;
+}
+ .fff{
+ 	color: #fff;
+}
+.g{
+	font-family: agency fb;
+	color: #00c; 
+}
+.f{
+	color: #fff;
+	font-family: agency fb;
+}
+.b{
+background: url(../img/13.jpg);
+}
+.gg{
+	background: #060;
+}
+.bc{
+background: url(../img/9.png);
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+  font-size: 12px;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #fff;
+  background-color: red;
+}
+.navbar-inverse .navbar-text {
+  color: #fff;
+}
+

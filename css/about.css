@@ -1,0 +1,42 @@
+
+footer {
+	background-color: #990066;
+	color: #aaa;
+	border-top: 15px solid teal;
+	border-bottom: 15px solid #f00;	
+}
+ footer a {
+	color: #fff;
+	text-transform: uppercase;
+}
+ footer p {
+	margin: 2% auto;
+}
+body {
+	background-color: silver;
+}
+.img_size {
+	width: 30%;
+	margin:  auto;
+}
+.dont {
+	font-family: elephant;
+	font-size: 40px;
+	color: #990066;
+	text-shadow: -5px 19px 9px #aaa;
+}
+.fnts {
+   font-size: 20px;
+}
+.font {
+	font-family: castellar ;
+	color: teal;
+}
+.style {
+	font-size: 30px;
+}
+.shadow{
+	text-shadow: -5px 19px 9px #aaa;
+}
+
+
